@@ -1,4 +1,4 @@
-# MIL for Breast Cancer Histology Images (Under development!)
+# MIL for Breast Cancer Histology Images (Under Development!)
 Multiple Instance Learning using Bayesian Learning & Self-supervised Learning on features extracted from CNNs.
 
 'Bayesian_MIL' folder contains Python implementation of the algorithm for MIL proposed in "Bayesian multiple instance learning: automatic feature selection and inductive transfer" (link - http://www.engr.uconn.edu/~jinbo/doc/mil_icml2008.pdf). 'Report' contains details of the results of MIL on 2 datasets using this algorithm applied on features extracted from an auto-encoder.
